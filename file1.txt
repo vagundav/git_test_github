@@ -2,3 +2,4 @@ first row revritten by v_vagunda + cast s batlicka code
 added in forked repo
 last row revritten by v_vagunda together with batlicka
 added another row to file1 by batlicka
+added row vojta
